@@ -120,7 +120,9 @@
       </div>
     </header>
     <aside class="left">
-      <img src="image 1.png" width="160px" />
+      <img src="sujith.in
+/IMG_20230625_173250.jpg
+" width="160px" />
       <ul>
         <li><a class="active" href="#home">Home</a></li>
         <li><a href="#career">Career</a></li>
